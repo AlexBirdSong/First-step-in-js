@@ -1,1 +1,1 @@
-# First-step-in-js
+# Обучение работы с git
